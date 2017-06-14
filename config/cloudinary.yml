@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dl5rwpeab
+  api_key: '456117938857628'
+  api_secret: hjMCJZbAMf7pHw7ka4ae9zzI2Ug
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dl5rwpeab
+  api_key: '456117938857628'
+  api_secret: hjMCJZbAMf7pHw7ka4ae9zzI2Ug
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dl5rwpeab
+  api_key: '456117938857628'
+  api_secret: hjMCJZbAMf7pHw7ka4ae9zzI2Ug
+  enhance_image_tag: true
+  static_image_support: false

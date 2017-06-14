@@ -1,0 +1,17 @@
+
+
+    <%= form_for(@user) do |f| %>
+      <%= f.label :name %><br>
+      <%= f.text_field :name, class: 'form-control' %><br><br>
+      
+  
+      <%= f.label :image %><br>
+      <%= f.file_field :image, class: 'form-control' %><br><br>
+
+
+      <%= f.submit "Create", class: "btn btn-primary" %>
+    <% end %>
+  </div>
+</div>
+
+
